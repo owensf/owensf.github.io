@@ -6,5 +6,5 @@ nav_order: 5
 # STM32 Miniprojects
 STM32 Miniprojects
 
-### [Keyboard Flasher](keyboardflasher)
-Flasher
+### [Keyboard Flasher (Coming Soon)](keyboardflasher)
+Coming Soon
