@@ -2,6 +2,8 @@ Welcome to the Fred Owens website!
 
 The purpose of this webpage is to show off some of my projects + my resume and contact info, all in the same place.
 
+Feel free to contact me at owensf.fred@gmail.com, or at my cell: 219-929-7019
+
 ### [MIPS CPU (Work in progress)](/mips-cpu)
 This is the largest digital design project I completed outside of my career at Texas Instruments. Text copied with permission from my ECE 437 lab partner, Isaiah Grace.
 
