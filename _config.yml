@@ -54,8 +54,12 @@ color_scheme: light
 aux_links:
   "My GitHub":
     - "//github.com/owensf"
-  #"My Resume":
-   # - "https://github.com/owensf/Resume/raw/master/owensfResume.pdf"
+  "My Resume":
+    - "https://github.com/owensf/FredOwensResume/blob/master/Fred%20Owens%20Resume%207-12-23.pdf"
+  "My Linkedin":
+    - "https://www.linkedin.com/feed/"
+    
+    
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
