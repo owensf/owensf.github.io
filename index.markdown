@@ -7,7 +7,7 @@ Want to know how to optimize next year's march madness bracket? Much has been wr
 This is where I keep track of all my little projects on my STM32
 
 ### [MIPS CPU (Work in progress)](/mips-cpu)
-This is the largest digital design project I completed outside of my career at Texas Instruments
+This is the largest digital design project I completed outside of my career at Texas Instruments. Text copied with permission from my ECE 437 lab partner, Isaiah Grace.
 
 ### [Advent of Code (Coming soon)](/advent-of-code)
 I've been completing various days in the 2022 Advent of Code challenge. Here I'll highlight interesting puzzle solutions I came up
